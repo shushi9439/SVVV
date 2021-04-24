@@ -1,0 +1,14 @@
+.container-login{
+  vertical-align: middle;
+  width:350px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+}
+.container-reg{
+  vertical-align: middle;
+  width:350px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
